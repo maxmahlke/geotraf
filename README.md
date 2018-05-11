@@ -3,7 +3,7 @@ See who your computer is talking to
 
 This script displays the incoming and outgoing internet traffic to and from your computer on a world map.
 
-![Output sample](https://github.com/maxmahlke/geotraf/raw/master/sample_connections.gif)
+![Output sample](https://github.com/maxmahlke/geotraf/raw/master/sample_output.gif)
 
 Outgoing connections are shown in red, incoming ones in green. Pressing `l` prints the 100 most recent connections.
 
